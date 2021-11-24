@@ -1,1 +1,1 @@
-# C104-Mean-Median-Mode
+# sree-mean
